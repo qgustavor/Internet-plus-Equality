@@ -80,7 +80,7 @@ function handleText(textNode)
             r = (p1 == "E") ? "R" : "r";
             return r+"ape apologist";
         });
-	v = v.replace(/\bMRA\b/gi, "VRGIN NECKBEARD");
+	v = v.replace(/\bMRA\b/gi, "VIRGIN NECKBEARD");
         v = v.replace(/(H)eterosexual/gi, function(str, p1) {
             p = (p1 == "H") ? "P" : "p";
             return p+"rivileged scum";
