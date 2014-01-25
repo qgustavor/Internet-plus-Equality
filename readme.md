@@ -7,6 +7,11 @@ Userscript that Equalises the Internet by substituting sexist, misogynistic, and
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
+Contributing
+------------
+
+All contributions welcome!  Either fork and repo and send a pull request, or send your suggestions to our [issue tracker](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/issues).
+
 
 Installing
 ----------
