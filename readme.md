@@ -13,8 +13,8 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 Installing
 ----------
 
-Download [Internet-plus-Equality.xpi](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Firefox/blob/master/Internet-plus-Equality.xpi?raw=true)
-
+1. Download [Internet-plus-Equality.xpi](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Firefox/blob/master/Internet-plus-Equality.xpi?raw=true)
+2. If it doesn't automatically install, drag-and-drop the .xpi file into your Firefox window.
 
 Building
 --------
