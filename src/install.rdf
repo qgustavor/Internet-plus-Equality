@@ -21,7 +21,7 @@
       <RDF:Description>
         <em:id>{ca06d919-9035-48fe-a127-1a25d09a5646}</em:id>
         <em:minVersion>4.0</em:minVersion>
-        <em:maxVersion>999.*</em:maxVersion>
+        <em:maxVersion>50.*</em:maxVersion>
       </RDF:Description>
     </em:targetApplication>
 
