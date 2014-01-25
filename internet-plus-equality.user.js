@@ -5,6 +5,8 @@
 // @include        *
 // @author         Feminist Software Foundation
 // @version        1.0
+// @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
+// @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
 
 
