@@ -1,11 +1,9 @@
-Internet-plus-Equality-Firefox
-==============================
+Internet-plus-Equality
+======================
 
   ![FSF](http://i.imgur.com/k0Xz5mD.png)
 
-Firefox extension that replaces sexist, misogynistic, and problematic words with more equal alternatives.
-
-Firefox version of [Internet-plus-Equality-Chrome](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Chrome).
+Userscript that Equalises the Internet by substituting sexist, misogynistic, and otherwise problematic text with more Equal alternatives.
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
@@ -13,19 +11,8 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 Installing
 ----------
 
-1. Download [internet-plus-equality.xpi](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Firefox/blob/master/internet-plus-equality.xpi?raw=true)
-2. If it doesn't automatically install, drag-and-drop the .xpi file into your Firefox window.
+**Pre-requisites: you'll need to install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) first if you're a Firefox user.**
 
-Building
---------
-
-1. cd into src/
-2. zip -r ../Internet-plus-Equality.xpi *
-3. Profit
-
-
-Chrome version
---------------
-
-Can be found here: https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Chrome
+1. Click this link: [internet-plus-equality.user.js](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/blob/master/internet-plus-equality.user.js?raw=true)
+2. That's it.
 

@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name           Internet-plus-Equality
+// @namespace      http://mywebsite.com/myscripts
+// @description    Equalise the Internet
+// @include        *
+// @author         Feminist Software Foundation
+// @version        1.0
+// ==/UserScript==
+
+
+(function(){
 walk(document.body);
 
 function walk(node) 
@@ -83,4 +94,4 @@ function handleText(textNode)
 	textNode.nodeValue = v;
 }
 
-
+})();
