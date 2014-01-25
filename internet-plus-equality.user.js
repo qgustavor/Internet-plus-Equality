@@ -52,15 +52,23 @@ function handleText(textNode)
             T = (p1 == "R") ? "T" : "T";
             return T+"RIGGER WARNING: RAPE";
         });
-        v = v.replace(/(M)an/gi, function(str, p1) {
+        v = v.replace(/\b(S)ex\b/gi, function(str, p1) {
+            r = (p1 == "S") ? "R" : "r";
+            return r+"ape";
+        });
+        v = v.replace(/\b(C)onsent\b/gi, function(str, p1) {
+            f = (p1 == "C") ? "F" : "f";
+            return f+"eels";
+        });
+        v = v.replace(/\b(M)an\b/gi, function(str, p1) {
             r = (p1 == "M") ? "R" : "r";
             return r+"apist scum";
         });
-        v = v.replace(/(M)en/gi, function(str, p1) {
+        v = v.replace(/\b(M)en\b/gi, function(str, p1) {
             t = (p1 == "M") ? "T" : "t";
             return t+"he Patriarchy";
         });
-        v = v.replace(/(M)ale/gi, function(str, p1) {
+        v = v.replace(/\b(M)ale\b/gi, function(str, p1) {
             s = (p1 == "M") ? "S" : "s";
             return s+"exist and misogynistic";
         });
