@@ -68,6 +68,10 @@ function handleText(textNode)
             t = (p1 == "M") ? "T" : "t";
             return t+"he Patriarchy";
         });
+        v = v.replace(/\b(B)oy\b/gi, function(str, p1) {
+            p = (p1 == "B") ? "P" : "p";
+            return p+"otential rapist";
+        });
         v = v.replace(/\b(M)ale\b/gi, function(str, p1) {
             s = (p1 == "M") ? "S" : "s";
             return s+"exist and misogynistic";
