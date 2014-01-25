@@ -76,6 +76,7 @@ function handleText(textNode)
             r = (p1 == "E") ? "R" : "r";
             return r+"ape apologist";
         });
+	v = v.replace(/\bMRA\b/gi, "VRGIN NECKBEARD");
         v = v.replace(/(H)eterosexual/gi, function(str, p1) {
             p = (p1 == "H") ? "P" : "p";
             return p+"rivileged scum";
@@ -86,7 +87,7 @@ function handleText(textNode)
         });
         v = v.replace(/(G)ay/gi, function(str, p1) {
             m = (p1 == "G") ? "M" : "m";
-            return m+"em with so much internalised misogyny that they'd rather sleep with men";
+            return m+"en with so much internalised misogyny that they'd rather sleep with men";
         });
 	v = v.replace(/\bF2M\b/g, "Enabler of Patriarchy");
 	v = v.replace(/\bf2m\b/g, "enabler of Patriarchy");
