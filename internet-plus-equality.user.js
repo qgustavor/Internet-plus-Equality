@@ -65,6 +65,8 @@ function handleText(textNode)
             w = (p1 == "M") ? "W" : "w";
             return w+"hite privilege";
         });
+	v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
+	v = v.replace(/\bMisandry\b/gi, "That Thing That Doesn't Exist");
 
         //The Masculine
         v = v.replace(/\b(M)an\b/gi, function(str, p1) {
@@ -99,6 +101,7 @@ function handleText(textNode)
             b = (p1 == "F") ? "B" : "b";
             return b+"eautifully proportioned";
         });
+	v = v.replace(/\bBeautiful\b/gi, "Western Beauty Standard");
         v = v.replace(/\b(D)iet\b/gi, function(str, p1) {
             a = (p1 == "D") ? "A" : "a";
             return a+"norexia";
@@ -130,6 +133,7 @@ function handleText(textNode)
             return r+"ape apologist";
         });
 	v = v.replace(/\bMRA\b/gi, "VIRGIN NECKBEARD");
+	v = v.replace(/\bFreedom of Speech\b/gi, "Hate Speech");
 
         //Sexualities and Gender Identities
         v = v.replace(/(H)eterosexual/gi, function(str, p1) {
@@ -159,13 +163,14 @@ function handleText(textNode)
 
         //Political parties
 	v = v.replace(/\bRepublican\b/gi, "Nazi");
-
+	v = v.replace(/\bLibertarian\b/gi, "Cryptofascist");
 
         //Race
         v = v.replace(/(B)lack/gi, function(str, p1) {
             n = (p1 == "B") ? "N" : "n";
             return n+"oble race";
         });
+	v = v.replace(/\bReverse Racism\b/gi, "That Thing That Doesn't Exist");
 	
 	textNode.nodeValue = v;
 }
