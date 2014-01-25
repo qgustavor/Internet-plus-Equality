@@ -68,6 +68,36 @@ function handleText(textNode)
 	v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
 	v = v.replace(/\bMisandry\b/gi, "That Thing That Doesn't Exist");
 
+        //Gendered Pronouns
+        v = v.replace(/\b(H)e\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"e";
+        });
+        v = v.replace(/\b(S)he\b/gi, function(str, p1) {
+            x = (p1 == "S") ? "X" : "x";
+            return x+"e";
+        });
+        v = v.replace(/\b(H)is\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"ir";
+        });
+        v = v.replace(/\b(H)er\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"ir";
+        });
+        v = v.replace(/\b(H)im\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"ir";
+        });
+        v = v.replace(/\b(H)imself\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"irself";
+        });
+        v = v.replace(/\b(H)erself\b/gi, function(str, p1) {
+            x = (p1 == "H") ? "X" : "x";
+            return x+"irself";
+        });
+
         //The Masculine
         v = v.replace(/\b(M)an\b/gi, function(str, p1) {
             r = (p1 == "M") ? "R" : "r";
