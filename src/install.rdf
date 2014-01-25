@@ -3,15 +3,15 @@
   <RDF:Description about="urn:mozilla:install-manifest">
 
     <!-- GUID and type -->
-    <em:id>cloud-to-butt@github.com</em:id>
+    <em:id>Internet-plus-Equality@github.com</em:id>
     <em:type>2</em:type>
 
     <!-- Extension details -->
-    <em:name>Cloud To Butt</em:name>
-    <em:description>Replaces the text 'the cloud' with 'my butt'.</em:description>
+    <em:name>Internet plus Equality</em:name>
+    <em:description>Replaces sexist, misogynist, and problematic texts with more equal alternatives.</em:description>
     <em:creator>Steven Frank</em:creator>
-    <em:developer>Chris Wright</em:developer>
-    <em:homepageURL>https://github.com/DaveRandom/cloud-to-butt-mozilla</em:homepageURL>
+    <em:developer>Feminist Software Foundation</em:developer>
+    <em:homepageURL>https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Firefox</em:homepageURL>
 
     <!-- Current version -->
     <em:version>1.0</em:version>
