@@ -1,29 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-  <RDF:Description about="urn:mozilla:install-manifest">
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>internet-plus-equality@github.com</em:id>
+        <em:name>internet-plus-equality</em:name>
+        <em:version>1.0</em:version>
+        <em:type>2</em:type>
 
-    <!-- GUID and type -->
-    <em:id>Internet-plus-Equality@github.com</em:id>
-    <em:type>2</em:type>
-
-    <!-- Extension details -->
-    <em:name>Internet plus Equality</em:name>
-    <em:description>Replaces sexist, misogynist, and problematic texts with more equal alternatives.</em:description>
-    <em:creator>Steven Frank</em:creator>
-    <em:developer>Feminist Software Foundation</em:developer>
-    <em:homepageURL>https://github.com/Feminist-Software-Foundation/Internet-plus-Equality-Firefox</em:homepageURL>
-
-    <!-- Current version -->
-    <em:version>1.0</em:version>
-
-    <!-- Firefox meta info -->
+    <!-- Firefox -->
     <em:targetApplication>
-      <RDF:Description>
-        <em:id>{ca06d919-9035-48fe-a127-1a25d09a5646}</em:id>
-        <em:minVersion>4.0</em:minVersion>
-        <em:maxVersion>50.*</em:maxVersion>
-      </RDF:Description>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>10.0</em:minVersion>
+        <em:maxVersion>99.*</em:maxVersion>
+      </Description>
     </em:targetApplication>
 
-  </RDF:Description>
-</RDF:RDF>
+        <em:description>Replaces sexist, misogynist, and problematic texts with more equal alternatives.</em:description>
+        <em:creator>Steven Frank</em:creator>
+        <em:developer>Feminist Software Foundation</em:developer>
+
+    </Description>
+</RDF>

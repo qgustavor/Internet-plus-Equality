@@ -1,3 +1,2 @@
-content	Internet-plus-Equality	chrome/content/	contentaccessible=yes
-
-overlay	chrome://browser/content/browser.xul	chrome://Internet-plus-Equality/content/main.xul
+content	internet-plus-equality	chrome/content/ contentaccessible=yes
+overlay	chrome://browser/content/browser.xul chrome://internet-plus-equality/content/main.xul
