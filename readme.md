@@ -13,6 +13,6 @@ Installing
 
 **Pre-requisites: you'll need to install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) first if you're a Firefox user.**
 
-1. Click this link: [internet-plus-equality.user.js](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/blob/master/internet-plus-equality.user.js?raw=true)
+1. Click this link: [internet-plus-equality.user.js](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js)
 2. That's it.
 
