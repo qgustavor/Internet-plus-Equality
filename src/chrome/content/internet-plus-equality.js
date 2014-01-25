@@ -31,6 +31,14 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
+        v = v.replace(/(P)enis/gi, function(str, p1) {
+            b = (p1 == "P") ? "R" : "r";
+            return r+"od of oppression";
+        });
+        v = v.replace(/(R)ape/gi, function(str, p1) {
+            b = (p1 == "R") ? "T" : "T";
+            return T+"RIGGER WARNING: RAPE";
+        });
         v = v.replace(/(M)an/gi, function(str, p1) {
             b = (p1 == "M") ? "R" : "r";
             return r+"apist scum";
