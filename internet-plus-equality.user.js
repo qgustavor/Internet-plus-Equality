@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.10
+// @version        1.11
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -230,12 +230,15 @@ function handleText(textNode)
         v = v.replace(/(B)lack man/gi, function(str, p1) {
             m = (p1 == "B") ? "M" : "m";
             return m+"an of colour";
+        });
         v = v.replace(/(B)lack men/gi, function(str, p1) {
             m = (p1 == "B") ? "M" : "m";
             return m+"en of colour";
+        });
         v = v.replace(/(B)lack woman/gi, function(str, p1) {
             w = (p1 == "B") ? "W" : "w";
             return w+"oman of colour";
+        });
         v = v.replace(/(B)lack women/gi, function(str, p1) {
             w = (p1 == "B") ? "W" : "w";
             return w+"omen of colour";
