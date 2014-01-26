@@ -91,5 +91,6 @@ Current Word Substitutions
 
 ### Race, Archeology, and Sociology
 * Black = Noble race
+* White = Racist
 * Tribe = Peaceful, small society with no evils
 * Reverse racism = That Thing That Doesn't Exist

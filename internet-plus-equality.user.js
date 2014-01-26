@@ -215,6 +215,10 @@ function handleText(textNode)
             n = (p1 == "B") ? "N" : "n";
             return n+"oble race";
         });
+        v = v.replace(/(W)hite/gi, function(str, p1) {
+            r = (p1 == "W") ? "R" : "r";
+            return r+"acist";
+        });
         v = v.replace(/(T)ribe/gi, function(str, p1) {
             p = (p1 == "T") ? "P" : "p";
             return p+"eaceful, small society with no evils";
