@@ -67,6 +67,7 @@ function handleText(textNode)
         });
 	v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
 	v = v.replace(/\bMisandry\b/gi, "That Which Don't Real");
+	v = v.replace(/\bI'm not a racist but\b/gi, "I'M A GOD DAMN NAZI RAPE RAPE SLAUGHTER BLACK BABIES");
 
         //Gendered Pronouns
         v = v.replace(/\b(H)e\b/gi, function(str, p1) {
