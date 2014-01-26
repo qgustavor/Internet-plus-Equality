@@ -90,6 +90,7 @@ Current Word Substitutions
 * MSNBC = MSNBC, the only valid safe space channel for intellectual enlighteneds
 
 ### Race, Archeology, and Sociology
+* Race = Doesn't exist
 * Black = Noble race
 * White = Racist
 * Tribe = Peaceful, small society with no evils

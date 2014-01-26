@@ -211,6 +211,10 @@ function handleText(textNode)
 	v = v.replace(/\bMSNBC\b/gi, "MSNBC, the only valid safe space channel for intellectual enlighteneds");
 
         //Race, Archeology, and Sociology
+        v = v.replace(/(R)ace/gi, function(str, p1) {
+            d = (p1 == "R") ? "D" : "d";
+            return d+"oesn't exist";
+        });
         v = v.replace(/(B)lack/gi, function(str, p1) {
             n = (p1 == "B") ? "N" : "n";
             return n+"oble race";
