@@ -34,7 +34,7 @@ Current Word Substitutions
 * Consent = Feels
 * Merit = White privilege
 * Reverse Sexism = That Thing That Doesn't Exist
-* Misandry = That Thing That Doesn't Exist
+* Misandry = That Which Don't Real
 
 ### Gendered Pronouns
 * He = Xe
@@ -62,6 +62,7 @@ Current Word Substitutions
 ### Body Acceptance
 * Ugly = Beautiful
 * Fat = Beautiful proportioned
+* Obesity = Genetics
 * Beautiful = Western Beauty Standard
 * Diet = Anorexia
 * Healthy = Fat shaming

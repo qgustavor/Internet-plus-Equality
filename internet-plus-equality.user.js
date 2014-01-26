@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.7
+// @version        1.8
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -66,7 +66,7 @@ function handleText(textNode)
             return w+"hite privilege";
         });
 	v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
-	v = v.replace(/\bMisandry\b/gi, "That Thing That Doesn't Exist");
+	v = v.replace(/\bMisandry\b/gi, "That Which Don't Real");
 
         //Gendered Pronouns
         v = v.replace(/\b(H)e\b/gi, function(str, p1) {
@@ -144,6 +144,10 @@ function handleText(textNode)
         v = v.replace(/\b(F)at\b/gi, function(str, p1) {
             b = (p1 == "F") ? "B" : "b";
             return b+"eautifully proportioned";
+        });
+        v = v.replace(/\b(O)besity\b/gi, function(str, p1) {
+            g = (p1 == "O") ? "G" : "g";
+            return g+"enetics";
         });
 	v = v.replace(/\bBeautiful\b/gi, "Western Beauty Standard");
         v = v.replace(/\b(D)iet\b/gi, function(str, p1) {
