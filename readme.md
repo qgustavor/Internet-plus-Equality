@@ -79,10 +79,9 @@ Current Word Substitutions
 * Heterosexual = Privileged scum
 * Striaght = Oppressive to sexual minorities
 * Gay = Men with so much internalised misogyny that they'd rather sleep with men
-* F2M= Enabler of Patriarchy
-* M2F = Fake women
-* Transgender = Gender traitor
-* Transsexual = Gender traitor
+* F2M/FTM = Enabler of Patriarchy
+* M2F/MTF = Fake women
+* Transgender/Transsexual/Transexual = Gender traitor
 
 ### Political Parties and Media
 * Republican = Nazi
@@ -91,7 +90,7 @@ Current Word Substitutions
 
 ### Race, Archeology, and Sociology
 * Race = Doesn't exist
-* Black = Noble race
+* Black man/men/woman/women = Man/men/woman/women of colour
 * White = Racist
 * Tribe = Peaceful, small society with no evils
 * Reverse racism = That Thing That Doesn't Exist
