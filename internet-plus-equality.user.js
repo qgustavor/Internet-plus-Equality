@@ -126,6 +126,16 @@ function handleText(textNode)
             return s+"trong Womyn";
         });
 
+        //Ageism
+        v = v.replace(/\b(C)hild\b/gi, function(str, p1) {
+            a = (p1 == "C") ? "A" : "a";
+            return a+"ge-oppressed non-adult person";
+        });
+        v = v.replace(/\b(C)hildren\b/gi, function(str, p1) {
+            a = (p1 == "C") ? "A" : "a";
+            return a+"ge-oppressed non-adult people";
+        });
+
         //Body Acceptance
         v = v.replace(/\b(U)gly\b/gi, function(str, p1) {
             b = (p1 == "U") ? "B" : "b";
@@ -195,14 +205,19 @@ function handleText(textNode)
             return g+"ender traitor";
         });
 
-        //Political parties
+        //Political Parties and Media
 	v = v.replace(/\bRepublican\b/gi, "Nazi");
 	v = v.replace(/\bLibertarian\b/gi, "Cryptofascist");
+	v = v.replace(/\bMSNBC\b/gi, "MSNBC, the only valid safe space channel for intellectual enlighteneds");
 
-        //Race
+        //Race, Archeology, and Sociology
         v = v.replace(/(B)lack/gi, function(str, p1) {
             n = (p1 == "B") ? "N" : "n";
             return n+"oble race";
+        });
+        v = v.replace(/(T)ribe/gi, function(str, p1) {
+            p = (p1 == "T") ? "P" : "p";
+            return p+"eaceful, small society with no evils";
         });
 	v = v.replace(/\bReverse Racism\b/gi, "That Thing That Doesn't Exist");
 	

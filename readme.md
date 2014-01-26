@@ -55,6 +55,10 @@ Current Word Substitutions
 ### The Feminine
 * Bitch = Strong Womyn
 
+### Ageism
+* Child = Age-oppressed non-adult person
+* Children = Age-oppressed non-adult people
+
 ### Body Acceptance
 * Ugly = Beautiful
 * Fat = Beautiful proportioned
@@ -80,10 +84,12 @@ Current Word Substitutions
 * Transgender = Gender traitor
 * Transsexual = Gender traitor
 
-### Political Parties
+### Political Parties and Media
 * Republican = Nazi
 * Libertarian = Cryptofascist
+* MSNBC = MSNBC, the only valid safe space channel for intellectual enlighteneds
 
-### Race
+### Race, Archeology, and Sociology
 * Black = Noble race
+* Tribe = Peaceful, small society with no evils
 * Reverse racism = That Thing That Doesn't Exist
