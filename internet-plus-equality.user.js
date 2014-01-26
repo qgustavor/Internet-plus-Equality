@@ -45,13 +45,13 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
         //Core words
-        v = v.replace(/(P)enis/gi, function(str, p1) {
-            r = (p1 == "P") ? "R" : "r";
-            return r+"ape instrument";
-        });
         v = v.replace(/(R)ape/gi, function(str, p1) {
             T = (p1 == "R") ? "T" : "T";
             return T+"RIGGER WARNING: RAPE";
+        });
+        v = v.replace(/(P)enis/gi, function(str, p1) {
+            r = (p1 == "P") ? "R" : "r";
+            return r+"ape instrument";
         });
         v = v.replace(/\b(S)ex\b/gi, function(str, p1) {
             r = (p1 == "S") ? "R" : "r";

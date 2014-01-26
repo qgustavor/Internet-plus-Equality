@@ -28,8 +28,8 @@ Current Word Substitutions
 --------------------------
 
 ### Core Words
-* Penis = Rape instrument
 * Rape = TRIGGER WARNING: RAPE
+* Penis = Rape instrument
 * Sex = Rape
 * Consent = Feels
 * Merit = White privilege
