@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.14
+// @version        1.15
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -62,12 +62,12 @@ function handleText(textNode)
             return f+"eels";
         });
         v = v.replace(/\b(M)erit\b/gi, function(str, p1) {
-            w = (p1 == "M") ? "W" : "w";
-            return w+"hite privilege";
+            p = (p1 == "M") ? "P" : "p";
+            return p="rivilege";
         });
 	v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
 	v = v.replace(/\bMisandry\b/gi, "That Which Don't Real");
-	v = v.replace(/\bI'm not a racist but\b/gi, "I'M A GOD DAMN NAZI RAPE RAPE SLAUGHTER BLACK BABIES");
+	v = v.replace(/\bI'm not a racist but\b/gi, "I'm a racist and");
 
         //Gendered Pronouns
         v = v.replace(/\b(H)e\b/gi, function(str, p1) {

@@ -37,10 +37,10 @@ Current Word Substitutions
 * Penis = Rape instrument
 * Sex = Rape
 * Consent = Feels
-* Merit = White privilege
+* Merit = Privilege
 * Reverse Sexism = That Thing That Doesn't Exist
 * Misandry = That Which Don't Real
-* I'm not a racist but = I'M A GOD DAMN NAZI RAPE RAPE SLAUGHTER BLACK BABIES
+* I'm not a racist but = I'm a racist and
 
 ### Gendered Pronouns
 * He = Xe
