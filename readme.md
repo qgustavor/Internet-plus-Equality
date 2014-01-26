@@ -6,7 +6,7 @@ Internet-plus-Equality
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
-Userscript that Equalises the Internet by substituting sexist, misogynistic, and otherwise problematic text with more Equal alternatives.
+Userscript that Equalises the Internet by substituting sexist, misogynistic, and otherwise problematic text with more Equal™ alternatives.
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
