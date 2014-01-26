@@ -77,6 +77,7 @@ Current Word Substitutions
 * Freedom of Speech = Hate Speech
 
 ### Sexualities and Gender Identities
+* Faggot = Candyass
 * Heterosexual = Privileged scum
 * Striaght = Oppressive to sexual minorities
 * Gay = Men with so much internalised misogyny that they'd rather sleep with men

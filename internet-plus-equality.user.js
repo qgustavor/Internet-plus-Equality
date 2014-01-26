@@ -184,6 +184,10 @@ function handleText(textNode)
 	v = v.replace(/\bFreedom of Speech\b/gi, "Hate Speech");
 
         //Sexualities and Gender Identities
+        v = v.replace(/(F)aggot/gi, function(str, p1) {
+            c = (p1 == "F") ? "C" : "c";
+            return c+"andyass";
+        });
         v = v.replace(/(H)eterosexual/gi, function(str, p1) {
             p = (p1 == "H") ? "P" : "p";
             return p+"rivileged scum";
@@ -226,6 +230,10 @@ function handleText(textNode)
         v = v.replace(/(R)ace/gi, function(str, p1) {
             d = (p1 == "R") ? "D" : "d";
             return d+"oesn't exist";
+        });
+        v = v.replace(/(N)igger/gi, function(str, p1) {
+            r = (p1 == "N") ? "R" : "r";
+            return r+"oodypoo";
         });
         v = v.replace(/(B)lack man/gi, function(str, p1) {
             m = (p1 == "B") ? "M" : "m";
