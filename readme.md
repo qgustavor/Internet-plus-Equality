@@ -46,6 +46,9 @@ Current Word Substitutions
 * Herself = Xirself
 
 ### The Masculine
+* White male = Brodude shitbird of privilege
+* Balls = Oppression balls
+* Sperm = Egg rapists
 * Man = Rapist scum
 * Men = The Patriarchy
 * Boy = Future rapist

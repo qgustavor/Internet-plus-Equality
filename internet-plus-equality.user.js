@@ -99,6 +99,18 @@ function handleText(textNode)
         });
 
         //The Masculine
+        v = v.replace(/\b(W)hite male\b/gi, function(str, p1) {
+            b = (p1 == "W") ? "B" : "b";
+            return b+"rodude shitbird of privilege";
+        });
+        v = v.replace(/\b(B)alls\b/gi, function(str, p1) {
+            o = (p1 == "B") ? "O" : "o";
+            return o+"ppression orbs";
+        });
+        v = v.replace(/\b(S)perm\b/gi, function(str, p1) {
+            e = (p1 == "S") ? "E" : "e";
+            return e+"gg rapists";
+        });
         v = v.replace(/\b(M)an\b/gi, function(str, p1) {
             r = (p1 == "M") ? "R" : "r";
             return r+"apist scum";
