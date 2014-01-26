@@ -10,6 +10,11 @@ Internet-plus-Equality: the Userscript that gives birth to true Equality™ on t
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
+Our IRC: #cplusequality@irc://chat.freenode.net
+ 
+IRC webchat: [http://webchat.freenode.net?channels=%23cplusequality](http://webchat.freenode.net?channels=%23cplusequality)
+
+
 Contributing
 ------------
 
