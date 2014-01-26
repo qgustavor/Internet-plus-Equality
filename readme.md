@@ -60,10 +60,10 @@ Current Word Substitutions
 * Children = Age-oppressed non-adult people
 
 ### Body Acceptance
+* Beautiful = Western Beauty Standard
 * Ugly = Beautiful
 * Fat = Beautiful proportioned
 * Obesity = Genetics
-* Beautiful = Western Beauty Standard
 * Diet = Anorexia
 * Healthy = Fat shaming
 * Doctor = Fat shamer

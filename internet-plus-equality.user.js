@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.9
+// @version        1.10
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -137,6 +137,7 @@ function handleText(textNode)
         });
 
         //Body Acceptance
+	v = v.replace(/\bBeautiful\b/gi, "Western Beauty Standard");
         v = v.replace(/\b(U)gly\b/gi, function(str, p1) {
             b = (p1 == "U") ? "B" : "b";
             return b+"eautiful";
@@ -149,7 +150,6 @@ function handleText(textNode)
             g = (p1 == "O") ? "G" : "g";
             return g+"enetics";
         });
-	v = v.replace(/\bBeautiful\b/gi, "Western Beauty Standard");
         v = v.replace(/\b(D)iet\b/gi, function(str, p1) {
             a = (p1 == "D") ? "A" : "a";
             return a+"norexia";
