@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.13
+// @version        1.14
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -45,11 +45,11 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
         //Core words
-        v = v.replace(/(R)ape/gi, function(str, p1) {
+        v = v.replace(/\b(R)ape\b/gi, function(str, p1) {
             T = (p1 == "R") ? "T" : "T";
             return T+"RIGGER WARNING: RAPE";
         });
-        v = v.replace(/(P)enis/gi, function(str, p1) {
+        v = v.replace(/\b(P)enis\b/gi, function(str, p1) {
             r = (p1 == "P") ? "R" : "r";
             return r+"ape instrument";
         });
