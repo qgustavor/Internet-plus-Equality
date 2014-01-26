@@ -79,7 +79,7 @@ Current Word Substitutions
 ### Sexualities and Gender Identities
 * Faggot = Candyass
 * Heterosexual = Privileged scum
-* Striaght = Oppressive to sexual minorities
+* Straight = Oppressive to sexual minorities
 * Gay = Men with so much internalised misogyny that they'd rather sleep with men
 * F2M/FTM = Enabler of Patriarchy
 * M2F/MTF = Fake women
