@@ -95,3 +95,4 @@ Current Word Substitutions
 * White = Racist
 * Tribe = Peaceful, small society with no evils
 * Reverse racism = That Thing That Doesn't Exist
+* America/The US = The world

@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.8
+// @version        1.9
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -249,6 +249,11 @@ function handleText(textNode)
             return p+"eaceful, small society with no evils";
         });
 	v = v.replace(/\bReverse Racism\b/gi, "That Thing That Doesn't Exist");
+        v = v.replace(/(T)he US/gi, function(str, p1) {
+            t = (p1 == "T") ? "T" : "t";
+            return t+"he world";
+        });
+	v = v.replace(/\bAmerica\b/gi, "The World");
 	
 	textNode.nodeValue = v;
 }
