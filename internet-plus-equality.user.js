@@ -113,7 +113,11 @@ function handleText(textNode)
         });
         v = v.replace(/\b(M)ale\b/gi, function(str, p1) {
             s = (p1 == "M") ? "S" : "s";
-            return s+"exist and misogynistic";
+            return s+"exist";
+        });
+        v = v.replace(/\b(J)oking\b/gi, function(str, p1) {
+            m = (p1 == "J") ? "M" : "m";
+            return m+"ansplaining";
         });
 
         //The Feminine
@@ -153,8 +157,8 @@ function handleText(textNode)
             return d+"eath marching";
         });
         v = v.replace(/\b(O)bese\b/gi, function(str, p1) {
-            t = (p1 == "O") ? "T" : "t";
-            return t+"hyroid condition";
+            g = (p1 == "O") ? "G" : "g";
+            return g+"enetically deep";
         });
 
         //Ideologies
