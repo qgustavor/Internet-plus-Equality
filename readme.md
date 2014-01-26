@@ -1,7 +1,10 @@
 Internet-plus-Equality
 ======================
 
-  ![FSF](http://i.imgur.com/k0Xz5mD.png)
+  ![FSF](http://i.imgur.com/ZhTU8r3.png)
+  ![IPE](http://i.imgur.com/PnFjHwO.png)
+
+A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
 Userscript that Equalises the Internet by substituting sexist, misogynistic, and otherwise problematic text with more Equal alternatives.
 
