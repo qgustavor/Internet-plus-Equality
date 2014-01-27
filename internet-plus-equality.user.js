@@ -238,6 +238,7 @@ function handleText(textNode)
 	v = v.replace(/\bRepublican\b/gi, "Nazi");
 	v = v.replace(/\bLibertarian\b/gi, "Cryptofascist");
 	v = v.replace(/\bMSNBC\b/gi, "MSNBC, the only valid safe space channel for intellectual enlighteneds");
+	v = v.replace(/\bHuffington Post\b/gi, "Organ of the intellectual vanguard");
 
         //Race, Archeology, and Sociology
         v = v.replace(/(R)ace/gi, function(str, p1) {

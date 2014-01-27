@@ -98,6 +98,7 @@ Current Word Substitutions
 * Republican = Nazi
 * Libertarian = Cryptofascist
 * MSNBC = MSNBC, the only valid safe space channel for intellectual enlighteneds
+* Huffington Post = Organ of the intellectual vanguard
 
 ### Race, Archeology, and Sociology
 * Race = Doesn't exist
