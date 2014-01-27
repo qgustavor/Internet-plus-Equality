@@ -28,6 +28,7 @@ Installing
 
 1. Click this link: [internet-plus-equality.user.js](https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js)
 2. That's it.
+3. If you're a Chrome user, drag-and-drop the .user.js file into the Extensions page of Chrome.
 
 Current Word Substitutions
 --------------------------
