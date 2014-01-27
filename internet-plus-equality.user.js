@@ -115,6 +115,9 @@ function handleText(textNode)
         v = v.replace(/\b(J)oking\b/gi, function(str, p1) {
             return ((p1 == "J") ? "M" : "m")  +"ansplaining";
         });
+        v = v.replace(/\b(W)olf\b/gi, function(str, p1) {
+            return ((p1 == "W") ? "R" : "r")  +"ape promoter";
+        });
  
         //The Feminine
         v = v.replace(/\b(B)itch\b/gi, function(str, p1) {

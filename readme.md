@@ -61,6 +61,7 @@ Current Word Substitutions
 * Boy = Future rapist
 * Male = Sexist
 * Joking = Mansplaining
+* Wolf = Rape promoter
 
 ### The Feminine
 * Bitch = Strong Womyn
