@@ -4,7 +4,7 @@
 // @description    Equalise the Internet
 // @include        *
 // @author         Feminist Software Foundation
-// @version        1.16
+// @version        1.17
 // @downloadURL    https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // @updateURL      https://github.com/Feminist-Software-Foundation/Internet-plus-Equality/raw/master/internet-plus-equality.user.js
 // ==/UserScript==
@@ -137,6 +137,10 @@ function handleText(textNode)
         v = v.replace(/\b(B)itch\b/gi, function(str, p1) {
             s = (p1 == "B") ? "S" : "s";
             return s+"trong Womyn";
+        });
+        v = v.replace(/\b(W)oman\b/gi, function(str, p1) {
+            e = (p1 == "W") ? "E" : "e";
+            return e+"mpowered female";
         });
 
         //Ageism

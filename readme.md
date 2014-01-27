@@ -63,6 +63,7 @@ Current Word Substitutions
 
 ### The Feminine
 * Bitch = Strong Womyn
+* Woman = Empowered female
 
 ### Ageism
 * Child = Age-oppressed non-adult person
