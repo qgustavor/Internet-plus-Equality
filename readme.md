@@ -38,6 +38,7 @@ Current Word Substitutions
 * Sex = Rape
 * Consent = Feels
 * Merit = Privilege
+* Meritocracy = Ableist Kyriarchy
 * Reverse Sexism = That Thing That Doesn't Exist
 * Misandry = That Which Don't Real
 * I'm not a racist but = I'm a racist and

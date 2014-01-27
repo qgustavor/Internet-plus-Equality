@@ -60,6 +60,9 @@ function handleText(textNode)
         v = v.replace(/\b(M)erit\b/gi, function(str, p1) {
             return ((p1 == "M") ? "P" : "p")  +"rivilege";
         });
+        v = v.replace(/\b(M)eritocracy\b/gi, function(str, p1) {
+            return ((p1 == "M") ? "A" : "a")  +"bleist kyriarchy";
+        });
         v = v.replace(/\bReverse Sexism\b/gi, "That Thing That Doesn't Exist");
         v = v.replace(/\bMisandry\b/gi, "That Which Don't Real");
         v = v.replace(/\bI'm not a racist but\b/gi, "I'm a racist and");
