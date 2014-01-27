@@ -65,7 +65,7 @@ Current Word Substitutions
 * Wolf = Rape promoter
 
 ### The Feminine
-* Bitch = Strong Womyn
+* Bitch = Strong Womxn
 * Woman = Empowered female
 * Cunt = Pretty pink princess
 * Pussy = Assets
