@@ -248,10 +248,6 @@ function handleText(textNode)
             return ((p1 == "T") ? "P" : "p")  +"eaceful, small society with no evils";
         });
         v = v.replace(/\bReverse Racism\b/gi, "That Thing That Doesn't Exist");
-        v = v.replace(/(T)he US/gi, function(str, p1) {
-            return ((p1 == "T") ? "T" : "t")  +"he world";
-        });
-        v = v.replace(/\bAmerica\b/gi, "The World");
        
         textNode.nodeValue = v;
 }
