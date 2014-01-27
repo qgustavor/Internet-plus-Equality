@@ -191,6 +191,9 @@ function handleText(textNode)
         v = v.replace(/(L)esbian/gi, function(str, p1) {
             return ((p1 == "L") ? "W" : "w")  +"oman in comfortable shoes";
         });
+        v = v.replace(/(D)yke/gi, function(str, p1) {
+            return ((p1 == "D") ? "W" : "w")  +"oman with respectable sexuality differences";
+        });
         v = v.replace(/\bF2M\b/g, "Enabler of Patriarchy");
         v = v.replace(/\bf2m\b/g, "enabler of Patriarchy");
         v = v.replace(/\bFTM\b/g, "Enabler of Patriarchy");

@@ -95,6 +95,7 @@ Current Word Substitutions
 * Straight = Oppressive to sexual minorities
 * Gay = Men with so much internalised misogyny that they'd rather sleep with men
 * Lesbian = Woman in comfortable shoes
+* Dyke = Woman with respectable sexuality differences
 * F2M/FTM = Enabler of Patriarchy
 * M2F/MTF = Fake women
 * Transgender/Transsexual/Transexual = Gender traitor
