@@ -64,6 +64,8 @@ Current Word Substitutions
 ### The Feminine
 * Bitch = Strong Womyn
 * Woman = Empowered female
+* Cunt = Pretty pink princess
+* Pussy = Assets
 
 ### Ageism
 * Child = Age-oppressed non-adult person

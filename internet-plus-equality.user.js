@@ -117,6 +117,15 @@ function handleText(textNode)
         v = v.replace(/\b(B)itch\b/gi, function(str, p1) {
             return ((p1 == "B") ? "S" : "s")  +"trong Womyn";
         });
+        v = v.replace(/\b(W)oman\b/gi, function(str, p1) {
+            return ((p1 == "W") ? "E" : "e")  +"mpowered female";
+        });
+        v = v.replace(/\b(C)unt\b/gi, function(str, p1) {
+            return ((p1 == "C") ? "P" : "p")  +"retty pink princess";
+        });
+        v = v.replace(/\b(P)ussy\b/gi, function(str, p1) {
+            return ((p1 == "P") ? "A" : "a")  +"ssets";
+        });
  
         //Ageism
         v = v.replace(/\b(C)hild\b/gi, function(str, p1) {
